@@ -30,9 +30,12 @@
 
 ***
 
-### Timeline
+# Timeline
 
-Yet to Start
+
+ Yet to Start
+
+***
 
 ### License
     -MIT License
