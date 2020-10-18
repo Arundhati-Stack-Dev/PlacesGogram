@@ -1,15 +1,15 @@
 ## Authentication
 * {Domian_name}/api/auth/signup
 
-  To sign up new user.
+    To sign up new user.
 
 * {Domain_name}/api/auth/login
 
-  To login user.
+    To login user.
   
  * {Domain_name}/api/auth/reset
  
-   To reset Password.
+     To reset Password.
   
   ***
   
@@ -25,11 +25,11 @@
     
    * {Domain_name}/api/admin/likes/:id
    
-    To  give like on a particular posts
+    To like on a particular posts
     
    * {Domain_name}/api/admin/comments/:id 
    
-    To give comments on a particular post
+    To comments on a particular post
     
    * {Domain_name}/api/admin/edit-post
    
