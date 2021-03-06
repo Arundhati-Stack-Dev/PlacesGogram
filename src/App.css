@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap');
+
+a{
+  color:#c44569 !important;
+}
+
+.brand-logo{
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.cards-Signup{
+ margin-top: 20px;
+}
+.cards-auth-card{
+  padding:20px;
+  max-width: 400px;
+  text-align: center;
+  /* box-sizing: border-box;
+  box-shadow: ; */
+  box-shadow: 0 0 10px #9e9e9e;
+  margin: 50px auto;
+}
+
+/* .cards-auth-card div a{
+  color:#c44569 ;
+}
+
+.cards-auth-card div a:hover{
+  color:grey
+} */
+
+.cards-auth-card h2{
+  color:#c44569 !important;
+  font-family: 'Sansita Swashed', cursive;
+}
+.input-field input[type=text]:focus {
+  /* border-bottom: 1px solid #000; !important
+  box-shadow: 0 1px 0 0 #000;   !important */  
+  color:#c44569 !important;
+}
+
+/* .input-field input[type=email]:focus {
+  /* border-bottom: 1px solid #000;
+  box-shadow: 0 1px 0 0 #000; 
+  color:#c44569 !important;
+} */
+
+.gallery{
+  
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-around;
+}
+
+.item{
+  width: 30%;
+}
+
+.home{
+  
+}
+
+.home-card{
+  max-width:500px;
+  height:max-content;
+  margin:26px auto;
+}
+
+#toast-container{
+  top:30px !important;
+  right:20px !important;
+  left:auto !important;
+}
+
+.material-icons:hover{
+  cursor: pointer;
+}
+
+.collection-item{
+  width: 100%;
+}
